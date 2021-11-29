@@ -1,0 +1,16 @@
+C:\Users\augusto.almeida\source\repos\Enumeradores\Exception\bin\Debug\net5.0\Exception.exe
+C:\Users\augusto.almeida\source\repos\Enumeradores\Exception\bin\Debug\net5.0\Exception.deps.json
+C:\Users\augusto.almeida\source\repos\Enumeradores\Exception\bin\Debug\net5.0\Exception.runtimeconfig.json
+C:\Users\augusto.almeida\source\repos\Enumeradores\Exception\bin\Debug\net5.0\Exception.runtimeconfig.dev.json
+C:\Users\augusto.almeida\source\repos\Enumeradores\Exception\bin\Debug\net5.0\Exception.dll
+C:\Users\augusto.almeida\source\repos\Enumeradores\Exception\bin\Debug\net5.0\ref\Exception.dll
+C:\Users\augusto.almeida\source\repos\Enumeradores\Exception\bin\Debug\net5.0\Exception.pdb
+C:\Users\augusto.almeida\source\repos\Enumeradores\Exception\obj\Debug\net5.0\Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\augusto.almeida\source\repos\Enumeradores\Exception\obj\Debug\net5.0\Exception.AssemblyInfoInputs.cache
+C:\Users\augusto.almeida\source\repos\Enumeradores\Exception\obj\Debug\net5.0\Exception.AssemblyInfo.cs
+C:\Users\augusto.almeida\source\repos\Enumeradores\Exception\obj\Debug\net5.0\Exception.csproj.CoreCompileInputs.cache
+C:\Users\augusto.almeida\source\repos\Enumeradores\Exception\obj\Debug\net5.0\Exception.dll
+C:\Users\augusto.almeida\source\repos\Enumeradores\Exception\obj\Debug\net5.0\ref\Exception.dll
+C:\Users\augusto.almeida\source\repos\Enumeradores\Exception\obj\Debug\net5.0\Exception.pdb
+C:\Users\augusto.almeida\source\repos\Enumeradores\Exception\obj\Debug\net5.0\Exception.genruntimeconfig.cache
+C:\Users\augusto.almeida\source\repos\Enumeradores\Exception\obj\Debug\net5.0\Exception.csproj.AssemblyReference.cache

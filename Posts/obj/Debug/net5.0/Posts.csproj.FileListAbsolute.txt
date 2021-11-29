@@ -1,0 +1,16 @@
+C:\Users\augusto.almeida\source\repos\Enumeradores\Posts\bin\Debug\net5.0\Posts.exe
+C:\Users\augusto.almeida\source\repos\Enumeradores\Posts\bin\Debug\net5.0\Posts.deps.json
+C:\Users\augusto.almeida\source\repos\Enumeradores\Posts\bin\Debug\net5.0\Posts.runtimeconfig.json
+C:\Users\augusto.almeida\source\repos\Enumeradores\Posts\bin\Debug\net5.0\Posts.runtimeconfig.dev.json
+C:\Users\augusto.almeida\source\repos\Enumeradores\Posts\bin\Debug\net5.0\Posts.dll
+C:\Users\augusto.almeida\source\repos\Enumeradores\Posts\bin\Debug\net5.0\ref\Posts.dll
+C:\Users\augusto.almeida\source\repos\Enumeradores\Posts\bin\Debug\net5.0\Posts.pdb
+C:\Users\augusto.almeida\source\repos\Enumeradores\Posts\obj\Debug\net5.0\Posts.csproj.AssemblyReference.cache
+C:\Users\augusto.almeida\source\repos\Enumeradores\Posts\obj\Debug\net5.0\Posts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\augusto.almeida\source\repos\Enumeradores\Posts\obj\Debug\net5.0\Posts.AssemblyInfoInputs.cache
+C:\Users\augusto.almeida\source\repos\Enumeradores\Posts\obj\Debug\net5.0\Posts.AssemblyInfo.cs
+C:\Users\augusto.almeida\source\repos\Enumeradores\Posts\obj\Debug\net5.0\Posts.csproj.CoreCompileInputs.cache
+C:\Users\augusto.almeida\source\repos\Enumeradores\Posts\obj\Debug\net5.0\Posts.dll
+C:\Users\augusto.almeida\source\repos\Enumeradores\Posts\obj\Debug\net5.0\ref\Posts.dll
+C:\Users\augusto.almeida\source\repos\Enumeradores\Posts\obj\Debug\net5.0\Posts.pdb
+C:\Users\augusto.almeida\source\repos\Enumeradores\Posts\obj\Debug\net5.0\Posts.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\augusto.almeida\source\repos\Enumeradores\Enumeradores\bin\Debug\net5.0\Enumeradores.exe
+C:\Users\augusto.almeida\source\repos\Enumeradores\Enumeradores\bin\Debug\net5.0\Enumeradores.deps.json
+C:\Users\augusto.almeida\source\repos\Enumeradores\Enumeradores\bin\Debug\net5.0\Enumeradores.runtimeconfig.json
+C:\Users\augusto.almeida\source\repos\Enumeradores\Enumeradores\bin\Debug\net5.0\Enumeradores.runtimeconfig.dev.json
+C:\Users\augusto.almeida\source\repos\Enumeradores\Enumeradores\bin\Debug\net5.0\Enumeradores.dll
+C:\Users\augusto.almeida\source\repos\Enumeradores\Enumeradores\bin\Debug\net5.0\ref\Enumeradores.dll
+C:\Users\augusto.almeida\source\repos\Enumeradores\Enumeradores\bin\Debug\net5.0\Enumeradores.pdb
+C:\Users\augusto.almeida\source\repos\Enumeradores\Enumeradores\obj\Debug\net5.0\Enumeradores.csproj.AssemblyReference.cache
+C:\Users\augusto.almeida\source\repos\Enumeradores\Enumeradores\obj\Debug\net5.0\Enumeradores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\augusto.almeida\source\repos\Enumeradores\Enumeradores\obj\Debug\net5.0\Enumeradores.AssemblyInfoInputs.cache
+C:\Users\augusto.almeida\source\repos\Enumeradores\Enumeradores\obj\Debug\net5.0\Enumeradores.AssemblyInfo.cs
+C:\Users\augusto.almeida\source\repos\Enumeradores\Enumeradores\obj\Debug\net5.0\Enumeradores.csproj.CoreCompileInputs.cache
+C:\Users\augusto.almeida\source\repos\Enumeradores\Enumeradores\obj\Debug\net5.0\Enumeradores.dll
+C:\Users\augusto.almeida\source\repos\Enumeradores\Enumeradores\obj\Debug\net5.0\ref\Enumeradores.dll
+C:\Users\augusto.almeida\source\repos\Enumeradores\Enumeradores\obj\Debug\net5.0\Enumeradores.pdb
+C:\Users\augusto.almeida\source\repos\Enumeradores\Enumeradores\obj\Debug\net5.0\Enumeradores.genruntimeconfig.cache

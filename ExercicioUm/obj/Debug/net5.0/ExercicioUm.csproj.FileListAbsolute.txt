@@ -1,0 +1,16 @@
+C:\Users\augusto.almeida\source\repos\Enumeradores\ExercicioUm\bin\Debug\net5.0\ExercicioUm.exe
+C:\Users\augusto.almeida\source\repos\Enumeradores\ExercicioUm\bin\Debug\net5.0\ExercicioUm.deps.json
+C:\Users\augusto.almeida\source\repos\Enumeradores\ExercicioUm\bin\Debug\net5.0\ExercicioUm.runtimeconfig.json
+C:\Users\augusto.almeida\source\repos\Enumeradores\ExercicioUm\bin\Debug\net5.0\ExercicioUm.runtimeconfig.dev.json
+C:\Users\augusto.almeida\source\repos\Enumeradores\ExercicioUm\bin\Debug\net5.0\ExercicioUm.dll
+C:\Users\augusto.almeida\source\repos\Enumeradores\ExercicioUm\bin\Debug\net5.0\ref\ExercicioUm.dll
+C:\Users\augusto.almeida\source\repos\Enumeradores\ExercicioUm\bin\Debug\net5.0\ExercicioUm.pdb
+C:\Users\augusto.almeida\source\repos\Enumeradores\ExercicioUm\obj\Debug\net5.0\ExercicioUm.csproj.AssemblyReference.cache
+C:\Users\augusto.almeida\source\repos\Enumeradores\ExercicioUm\obj\Debug\net5.0\ExercicioUm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\augusto.almeida\source\repos\Enumeradores\ExercicioUm\obj\Debug\net5.0\ExercicioUm.AssemblyInfoInputs.cache
+C:\Users\augusto.almeida\source\repos\Enumeradores\ExercicioUm\obj\Debug\net5.0\ExercicioUm.AssemblyInfo.cs
+C:\Users\augusto.almeida\source\repos\Enumeradores\ExercicioUm\obj\Debug\net5.0\ExercicioUm.csproj.CoreCompileInputs.cache
+C:\Users\augusto.almeida\source\repos\Enumeradores\ExercicioUm\obj\Debug\net5.0\ExercicioUm.dll
+C:\Users\augusto.almeida\source\repos\Enumeradores\ExercicioUm\obj\Debug\net5.0\ref\ExercicioUm.dll
+C:\Users\augusto.almeida\source\repos\Enumeradores\ExercicioUm\obj\Debug\net5.0\ExercicioUm.pdb
+C:\Users\augusto.almeida\source\repos\Enumeradores\ExercicioUm\obj\Debug\net5.0\ExercicioUm.genruntimeconfig.cache
