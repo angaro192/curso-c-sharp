@@ -33,13 +33,15 @@ namespace Exceptionss
 
                 reservation.UpdateDates(checkIn, checkOut);
                 Console.WriteLine("Reservation: " + reservation);
-            }catch(DomainException e)
+            }
+            catch (DomainException e)
             {
                 Console.WriteLine("Error reservation: " + e.Message);
             }
-            catch(FormatException e)
+            catch (FormatException e)
             {
                 Console.WriteLine("Format error: " + e.Message);
             }
+        }
     }
 }
