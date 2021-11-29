@@ -1,0 +1,16 @@
+C:\Users\augusto.almeida\source\repos\Enumeradores\ProjetoXadez\bin\Debug\net5.0\ProjetoXadez.exe
+C:\Users\augusto.almeida\source\repos\Enumeradores\ProjetoXadez\bin\Debug\net5.0\ProjetoXadez.deps.json
+C:\Users\augusto.almeida\source\repos\Enumeradores\ProjetoXadez\bin\Debug\net5.0\ProjetoXadez.runtimeconfig.json
+C:\Users\augusto.almeida\source\repos\Enumeradores\ProjetoXadez\bin\Debug\net5.0\ProjetoXadez.runtimeconfig.dev.json
+C:\Users\augusto.almeida\source\repos\Enumeradores\ProjetoXadez\bin\Debug\net5.0\ProjetoXadez.dll
+C:\Users\augusto.almeida\source\repos\Enumeradores\ProjetoXadez\bin\Debug\net5.0\ref\ProjetoXadez.dll
+C:\Users\augusto.almeida\source\repos\Enumeradores\ProjetoXadez\bin\Debug\net5.0\ProjetoXadez.pdb
+C:\Users\augusto.almeida\source\repos\Enumeradores\ProjetoXadez\obj\Debug\net5.0\ProjetoXadez.csproj.AssemblyReference.cache
+C:\Users\augusto.almeida\source\repos\Enumeradores\ProjetoXadez\obj\Debug\net5.0\ProjetoXadez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\augusto.almeida\source\repos\Enumeradores\ProjetoXadez\obj\Debug\net5.0\ProjetoXadez.AssemblyInfoInputs.cache
+C:\Users\augusto.almeida\source\repos\Enumeradores\ProjetoXadez\obj\Debug\net5.0\ProjetoXadez.AssemblyInfo.cs
+C:\Users\augusto.almeida\source\repos\Enumeradores\ProjetoXadez\obj\Debug\net5.0\ProjetoXadez.csproj.CoreCompileInputs.cache
+C:\Users\augusto.almeida\source\repos\Enumeradores\ProjetoXadez\obj\Debug\net5.0\ProjetoXadez.dll
+C:\Users\augusto.almeida\source\repos\Enumeradores\ProjetoXadez\obj\Debug\net5.0\ref\ProjetoXadez.dll
+C:\Users\augusto.almeida\source\repos\Enumeradores\ProjetoXadez\obj\Debug\net5.0\ProjetoXadez.pdb
+C:\Users\augusto.almeida\source\repos\Enumeradores\ProjetoXadez\obj\Debug\net5.0\ProjetoXadez.genruntimeconfig.cache
