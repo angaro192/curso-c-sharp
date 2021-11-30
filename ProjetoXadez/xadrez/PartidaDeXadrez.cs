@@ -20,7 +20,7 @@ namespace xadrez
             turno = 1;
             jogadorAtual = Cor.Branca;
             colocarPecas();
-            status = Status.Andamento; // Está em andamento porque preciso já iniciar a partida, mas pode mudar para "criada"
+            status = Status.Criada; // Está em andamento porque preciso já iniciar a partida, mas pode mudar para "criada"
         }
 
         public void executaMovimento(Posicao origem, Posicao destino)
