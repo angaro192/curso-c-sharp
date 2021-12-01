@@ -14,7 +14,6 @@ namespace ProjetoXadez
                 for(int j=0; j<tab.colunas; j++)
                 {
                     imprimirPeca(tab.peca(i, j));
-                    Console.Write(" ");
                 }
                 Console.WriteLine();
             }
@@ -39,7 +38,6 @@ namespace ProjetoXadez
                     }
                     imprimirPeca(tab.peca(i, j));
                     Console.BackgroundColor = fundoOriginal;
-                    Console.Write(" ");
                 }
                 Console.WriteLine();
             }
