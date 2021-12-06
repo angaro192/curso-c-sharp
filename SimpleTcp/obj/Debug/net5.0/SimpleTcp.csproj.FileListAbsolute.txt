@@ -1,0 +1,15 @@
+C:\Users\augusto.almeida\source\repos\Enumeradores\SimpleTcp\bin\Debug\net5.0\SimpleTcp.exe
+C:\Users\augusto.almeida\source\repos\Enumeradores\SimpleTcp\bin\Debug\net5.0\SimpleTcp.deps.json
+C:\Users\augusto.almeida\source\repos\Enumeradores\SimpleTcp\bin\Debug\net5.0\SimpleTcp.runtimeconfig.json
+C:\Users\augusto.almeida\source\repos\Enumeradores\SimpleTcp\bin\Debug\net5.0\SimpleTcp.runtimeconfig.dev.json
+C:\Users\augusto.almeida\source\repos\Enumeradores\SimpleTcp\bin\Debug\net5.0\SimpleTcp.dll
+C:\Users\augusto.almeida\source\repos\Enumeradores\SimpleTcp\bin\Debug\net5.0\ref\SimpleTcp.dll
+C:\Users\augusto.almeida\source\repos\Enumeradores\SimpleTcp\bin\Debug\net5.0\SimpleTcp.pdb
+C:\Users\augusto.almeida\source\repos\Enumeradores\SimpleTcp\obj\Debug\net5.0\SimpleTcp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\augusto.almeida\source\repos\Enumeradores\SimpleTcp\obj\Debug\net5.0\SimpleTcp.AssemblyInfoInputs.cache
+C:\Users\augusto.almeida\source\repos\Enumeradores\SimpleTcp\obj\Debug\net5.0\SimpleTcp.AssemblyInfo.cs
+C:\Users\augusto.almeida\source\repos\Enumeradores\SimpleTcp\obj\Debug\net5.0\SimpleTcp.csproj.CoreCompileInputs.cache
+C:\Users\augusto.almeida\source\repos\Enumeradores\SimpleTcp\obj\Debug\net5.0\SimpleTcp.dll
+C:\Users\augusto.almeida\source\repos\Enumeradores\SimpleTcp\obj\Debug\net5.0\ref\SimpleTcp.dll
+C:\Users\augusto.almeida\source\repos\Enumeradores\SimpleTcp\obj\Debug\net5.0\SimpleTcp.pdb
+C:\Users\augusto.almeida\source\repos\Enumeradores\SimpleTcp\obj\Debug\net5.0\SimpleTcp.genruntimeconfig.cache

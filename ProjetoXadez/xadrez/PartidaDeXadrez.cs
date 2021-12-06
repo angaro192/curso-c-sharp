@@ -15,12 +15,14 @@ namespace xadrez
         public Status status { get; private set; }
         private HashSet<Peca> pecas;
         private HashSet<Peca> capturadas;
+        public bool xeque { get; private set; }
         public PartidaDeXadrez()
         {
             tab = new Tabuleiro(8,8);
             turno = 1;
             jogadorAtual = Cor.Branca;
             status = Status.Andamento; // Está em andamento porque preciso já iniciar a partida, mas pode mudar para "criada"
+            xeque = false;
             pecas = new HashSet<Peca>();
             capturadas = new HashSet<Peca>();
             colocarPecas();
@@ -45,12 +47,26 @@ namespace xadrez
                 desfazMovimento(origem, destino, pecaCapturada);
                 throw new TabuleiroException("Você não pode se colocar em xeque!");
             }
+            if (estaEmXeque(adversaria(jogadorAtual))){
+                xeque = true;
+            }
+            else
+            {
+                xeque = false;
+            }
             turno++;
             mudaJogador();
         }
         public void desfazMovimento(Posicao origem, Posicao destino, Peca pecaCapturada)
         {
-
+            Peca p = tab.retirarPeca(destino);
+            p.decrementarQtdMovimentos();
+            if(pecaCapturada != null)
+            {
+                tab.colocarPeca(pecaCapturada, destino);
+                capturadas.Remove(pecaCapturada);
+            }
+            tab.colocarPeca(p, origem);
         }
         public void validarPosicaoOrigem(Posicao pos)
         {

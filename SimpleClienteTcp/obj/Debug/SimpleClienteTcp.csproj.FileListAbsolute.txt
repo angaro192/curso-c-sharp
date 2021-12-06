@@ -1,0 +1,10 @@
+C:\Users\augusto.almeida\source\repos\Enumeradores\SimpleClienteTcp\bin\Debug\SimpleClienteTcp.exe.config
+C:\Users\augusto.almeida\source\repos\Enumeradores\SimpleClienteTcp\bin\Debug\SimpleClienteTcp.exe
+C:\Users\augusto.almeida\source\repos\Enumeradores\SimpleClienteTcp\bin\Debug\SimpleClienteTcp.pdb
+C:\Users\augusto.almeida\source\repos\Enumeradores\SimpleClienteTcp\obj\Debug\SimpleClienteTcp.csproj.AssemblyReference.cache
+C:\Users\augusto.almeida\source\repos\Enumeradores\SimpleClienteTcp\obj\Debug\SimpleClienteTcp.Form1.resources
+C:\Users\augusto.almeida\source\repos\Enumeradores\SimpleClienteTcp\obj\Debug\SimpleClienteTcp.Properties.Resources.resources
+C:\Users\augusto.almeida\source\repos\Enumeradores\SimpleClienteTcp\obj\Debug\SimpleClienteTcp.csproj.GenerateResource.cache
+C:\Users\augusto.almeida\source\repos\Enumeradores\SimpleClienteTcp\obj\Debug\SimpleClienteTcp.csproj.CoreCompileInputs.cache
+C:\Users\augusto.almeida\source\repos\Enumeradores\SimpleClienteTcp\obj\Debug\SimpleClienteTcp.exe
+C:\Users\augusto.almeida\source\repos\Enumeradores\SimpleClienteTcp\obj\Debug\SimpleClienteTcp.pdb

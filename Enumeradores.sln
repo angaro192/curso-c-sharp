@@ -15,7 +15,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Heranca", "Heranca\Heranca.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exception", "Exception\Exception.csproj", "{A46370D8-0C36-45D6-89E6-0B49E655FF31}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoXadez", "ProjetoXadez\ProjetoXadez.csproj", "{2C17D00B-8683-4463-8681-526515DB1BD1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjetoXadez", "ProjetoXadez\ProjetoXadez.csproj", "{2C17D00B-8683-4463-8681-526515DB1BD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleTcp", "SimpleTcp\SimpleTcp.csproj", "{4ADA0D5A-B8CA-4750-AD1B-0D807DE82B60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleClienteTcp", "SimpleClienteTcp\SimpleClienteTcp.csproj", "{CF6B4997-C551-4A19-8693-821E4804365C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +55,14 @@ Global
 		{2C17D00B-8683-4463-8681-526515DB1BD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C17D00B-8683-4463-8681-526515DB1BD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C17D00B-8683-4463-8681-526515DB1BD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ADA0D5A-B8CA-4750-AD1B-0D807DE82B60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ADA0D5A-B8CA-4750-AD1B-0D807DE82B60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ADA0D5A-B8CA-4750-AD1B-0D807DE82B60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ADA0D5A-B8CA-4750-AD1B-0D807DE82B60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF6B4997-C551-4A19-8693-821E4804365C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF6B4997-C551-4A19-8693-821E4804365C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF6B4997-C551-4A19-8693-821E4804365C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF6B4997-C551-4A19-8693-821E4804365C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
