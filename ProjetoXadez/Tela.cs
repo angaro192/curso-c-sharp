@@ -14,14 +14,26 @@ namespace ProjetoXadez
             imprimirPecasCapturadas(partida);
             Console.WriteLine();
             Console.WriteLine("Turno: " + partida.turno);
-            Console.WriteLine("Aguardando jogada da peça: " + partida.jogadorAtual);
-            if (partida.xeque)
+            if(partida.status != Status.Finalizada)
             {
+                Console.WriteLine("Aguardando jogada da peça: " + partida.jogadorAtual);
+                if (partida.xeque)
+                {
+                    ConsoleColor aux = Console.ForegroundColor;
+                    Console.ForegroundColor = ConsoleColor.Red;
+                    Console.WriteLine("XEQUE!");
+                    Console.ForegroundColor = aux;
+                }
+            }
+            else
+            {
+                Console.WriteLine("XEQUEMATE!");
                 ConsoleColor aux = Console.ForegroundColor;
                 Console.ForegroundColor = ConsoleColor.Red;
-                Console.WriteLine("XEQUE!");
+                Console.WriteLine("Vencedor: " + partida.jogadorAtual);
                 Console.ForegroundColor = aux;
             }
+            
         }
         public static void imprimirPecasCapturadas(PartidaDeXadrez partida)
         {
